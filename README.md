@@ -8,9 +8,14 @@ In the proposed work music instrument recognition will be done using deep convol
 
 
 SOFTWARE REQUIREMENTS:
+
 Operating system: Windows XP/7/10
+
 Coding language: Python
-Development environment: Google Colab 
+
+Development environment: Google Colab
+
 Dataset: Musical instruments dataset
+
 IDE: Colab notebook
 
